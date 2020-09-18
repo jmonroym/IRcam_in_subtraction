@@ -1,0 +1,1 @@
+RH_temp	DP_detector	Rh_volts	RTD_1	RTD_10	RTD_11	dwpt:RH_temp/Rh_volts
